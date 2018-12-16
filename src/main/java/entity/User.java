@@ -1,6 +1,6 @@
 package entity;
 
-import java.util.Date;
+import java.util.Date;//to checkcommit
 
 public class User {
  private short userId;
